@@ -50,4 +50,3 @@ void key_press (GtkWidget *widget,
 			break;
 	}
 }
-ggggg
